@@ -18,7 +18,7 @@ const bosses = [
 app.use(express.json());
 
 app.get('/', (req, res) => {
-  res.redirect('/bosses');
+  res.send('Bem-vindo a API de Hollow Knight! Use /bosses para listar os chefes.');
 });
 
 app.get('/bosses', (req, res) => {
