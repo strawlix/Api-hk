@@ -1,0 +1,15 @@
+{
+  "name": "api-hk",
+  "version": "1.0.0",
+  "description": "API alguns bosses do Hollow Knight",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["api", "hollow-knight"],
+  "author": "Anaju",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
