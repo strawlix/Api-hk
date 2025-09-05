@@ -25,4 +25,4 @@ Exemplo: `/bosses?id=3` → retorna o boss com id 3.
 
 1. Clone o repositório:
 ```bash
-git clone <URL-do-repositorio>
+git clone https://github.com/strawlix/Api-hk/tree/main
